@@ -2,4 +2,6 @@
 
 ## Books
 
+* [The DevOps Handbook] (https://itrevolution.com/book/the-devops-handbook/)
+
 ## Whitepapers
