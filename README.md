@@ -1,1 +1,5 @@
 # DEVOPS RESOURCES
+
+## Books
+
+## Whitepapers
