@@ -2,13 +2,15 @@
 
 ## Books
 
-* [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/)
-
-* [Phoenix Project](https://itrevolution.com/book/the-phoenix-project/)
+[Books](books/README.md)
 
 ## Whitepapers
 
-* [2017 State of DevOps Report](https://puppet.com/resources/whitepaper/state-of-devops-report)
+* [Whitepapers](whitepapers/README.md)
+
+## Free Cloud Resources
+
+* [Free Cloud Resources](free_cloud_resources/README.md)
 
 ## Blog Post
 
