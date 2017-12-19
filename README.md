@@ -6,11 +6,11 @@
 
 ## Whitepapers
 
-* [Whitepapers](whitepapers/README.md)
+[Whitepapers](whitepapers/README.md)
 
 ## Free Cloud Resources
 
-* [Free Cloud Resources](free_cloud_resources/README.md)
+[Free Cloud Resources](free_cloud_resources/README.md)
 
 ## Blog Post
 
