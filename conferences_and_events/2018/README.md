@@ -71,3 +71,4 @@ This list mostly focuses on areas around KC (mostly driving distance) that have 
 * [Albatross Cloud List](https://albatross.cloud/lists/Upcoming-Technology-Conferences.aspx)
 * [Technology Conference List](https://www.technologyconference.com/?page_id=440)
 * [BMC's List of Top DevOps Conferences of 2018](http://www.bmc.com/blogs/devops-conferences/)
+* [GoToDevops.org Conference List](http://www.gotodevops.org/)
